@@ -21,9 +21,9 @@ This project delivers actionable insights into both sales and financial performa
     * Generate P&L reports segmented by Fiscal Year and Quarter.
     * Analyze trends and variances in profitability over time.
     * [Link to P&L by Fiscal Period Report]
-2.  **Profit and Loss (P&L) by Market:**
-    * Create P&L reports segmented by market.
-    * Evaluate the financial performance of each market segment.
+2.  **Profit and Loss (P&L) by Months:**
+    * Create P&L reports segmented by Month.
+    * Evaluate the financial performance of each month segment.
     * [Link to P&L by Market Report]
 
 ## Purpose and Importance
