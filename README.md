@@ -9,22 +9,22 @@ This project delivers actionable insights into both sales and financial performa
 1.  **Customer Performance Analysis:**
     * Create detailed reports analyzing customer sales performance.
     * Identify key customer segments and their purchasing behaviors.
-    * [Link to Customer Sales Performance Report]
+    * [Link to customer performance report](https://github.com/Sognya1993/Excel-Sales-Analytics/blob/fec444af241f3a71eef53595aaea374ac584e14e/Customer%20sales%20performance%20report.pdf)
 2.  **Market Performance vs. Sales Targets:**
     * Conduct a thorough comparison of market performance against established sales targets.
     * Pinpoint areas of over- and under-performance.
-    * [Link to Market Performance Report]
+    * [Link to Market Performance Report](https://github.com/Sognya1993/Excel-Sales-Analytics/blob/main/Market%20performance%20report.pdf)
 
 **Finance Reports:**
 
 1.  **Profit and Loss (P&L) by Fiscal Period:**
     * Generate P&L reports segmented by Fiscal Year and Quarter.
     * Analyze trends and variances in profitability over time.
-    * [Link to P&L by Fiscal Period Report]
+    * [Link to P&L by Fiscal Period Report](https://github.com/Sognya1993/Excel-Sales-Analytics/blob/main/P%20%26%20L%20by%20Fiscal%20year.pdf)
 2.  **Profit and Loss (P&L) by Months:**
     * Create P&L reports segmented by Month.
     * Evaluate the financial performance of each month segment.
-    * [Link to P&L by Market Report]
+    * [Link to P&L by Market Report](https://github.com/Sognya1993/Excel-Sales-Analytics/blob/main/P%26L%20by%20Months.pdf)
 
 ## Purpose and Importance
 
@@ -64,14 +64,4 @@ This project enables businesses to:
 * Make informed decisions based on comprehensive data analysis.
 * Clearly visualize financial and sales data for stakeholders.
 
-## How to Use This Project
 
-[Provide instructions on how to access and utilize the reports and data. If data is sensitive, explain how to request sample data, or describe the general data structure]
-
-## Contribution
-
-[Add information on how others can contribute, if applicable.]
-
-## Contact
-
-[Add your contact information or links to your profiles.]
