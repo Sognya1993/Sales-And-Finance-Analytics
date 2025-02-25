@@ -1,4 +1,4 @@
-# Comprehensive Financial and Sales Analytics Project
+# Comprehensive Sales-And-Finance-Analytics  Project
 
 This project delivers actionable insights into both sales and financial performance, empowering data-driven decision-making for strategic growth.
 
